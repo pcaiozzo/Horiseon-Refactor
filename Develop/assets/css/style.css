@@ -17,6 +17,7 @@ p {
   font-size: 16px;
 }
 
+/* applying styles to the Header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -50,7 +51,9 @@ p {
   display: inline-block;
   margin-left: 25px;
 }
+/*Header ends*/
 
+/*Header photo*/
 .hero {
   height: 800px;
   width: 100%;
@@ -69,7 +72,7 @@ p {
   float: right;
   margin-left: 25px;
 }
-
+/* Benefit sections on right side*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -96,7 +99,9 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+/*Benefit section ends*/
 
+/*Content section with the three main points*/
 .content {
   width: 75%;
   display: inline-block;
@@ -120,7 +125,9 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+/*Content section ends*/
 
+/* Footer syling begins*/
 .footer {
   padding: 30px;
   clear: both;
@@ -132,3 +139,4 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+/*Footer ends*/
